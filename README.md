@@ -14,6 +14,7 @@
 - 📆 Trendi prihodov po letih in mesecih
 - 🧭 Trendi prihodov po občinah / mestih
 
+
 ## 🧩 Tehnologija
 - Power BI Desktop
 - DAX (merila za rast, primerjave)
